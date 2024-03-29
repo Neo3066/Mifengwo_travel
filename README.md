@@ -29,12 +29,12 @@
 
 ## 预览:
 <div align="center" >
-<img width="700px" src="All_images/image024.jpg" height="">
-<img width="700px"src="All_images/image026.png" height="">
-<img width="700px"src="All_images/image030.png" height="">
-<img width="700px"src="All_images/image024.jpg" height="">
-<img width="700px"src="All_images/image036.jpg" height="">
-<img width="700px"src="All_images/image038.jpg" height="">
+<img width="61.8%" src="All_images/image024.jpg" height="">
+<img width="61.8%"src="All_images/image026.png" height="">
+<img width="61.8%"src="All_images/image030.png" height="">
+<img width="61.8%"src="All_images/image024.jpg" height="">
+<img width="61.8%"src="All_images/image036.jpg" height="">
+<img width="61.8%"src="All_images/image038.jpg" height="">
 </div>
 
 ## 功能：
@@ -55,7 +55,7 @@
 
 #### Buy Me a Coffee，你的赞赏将会给我带来更多动力。或者动动小手点个小星星🥰
 
-<img width="700px" src="All_images/wechat.jpg" height="">
+<img width="61.8%" src="All_images/wechat.jpg" height="">
 
 
 ## 特别感谢
