@@ -39,9 +39,13 @@
 - 登录/注册模块
 用户信息获取：用于用户登录和注册，以获取用户信息并进行套餐订购和优惠推送。
 这些模块将通过导航栏中的链接标签进行调用，用户可以通过导航栏直接访问和切换这些功能模块。在网站的设计和实现过程中，这些模块将相互关联，以提供全面的旅游服务和信息展示。
-## 下载
+
+## ⬇ 下载
 - 请点击此处  [releases](https://github.com/Neo3066/Mifengwo_travel/releases/tag/final)
+  
 ## 🤩 预览:
+ <details>
+<summary>点击查看</summary>
 <div align="center" >
 <img width="61.8%" src="All_images/image024.jpg" height="">
 <img width="61.8%"src="All_images/image026.png" height="">
@@ -50,12 +54,15 @@
 <img width="61.8%"src="All_images/image036.jpg" height="">
 <img width="61.8%"src="All_images/image038.jpg" height="">
 </div>
+</details>
+<br>
+    
+### ☕ Buy Me a Coffee😋,你的赞赏将会给我带来更多动力。或者动动小手点个小星星🥰
 
-####  Buy Me a Coffee😋，你的赞赏将会给我带来更多动力。或者动动小手点个小星星🥰
 <img width="38.2%" src="All_images/wx.jpg" height="">
 <img width="38.2%" src="All_images/zfb.jpg" height="">
 
-## 特别感谢
+### 特别感谢
 授课老师
 
 ## Star History
