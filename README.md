@@ -40,7 +40,7 @@
 用户信息获取：用于用户登录和注册，以获取用户信息并进行套餐订购和优惠推送。
 这些模块将通过导航栏中的链接标签进行调用，用户可以通过导航栏直接访问和切换这些功能模块。在网站的设计和实现过程中，这些模块将相互关联，以提供全面的旅游服务和信息展示。
 ## 下载
-- 点击此处  [releases](https://github.com/Neo3066/Mifengwo_travel/releases/tag/final)
+- 请点击此处  [releases](https://github.com/Neo3066/Mifengwo_travel/releases/tag/final)
 ## 🤩 预览:
 <div align="center" >
 <img width="61.8%" src="All_images/image024.jpg" height="">
