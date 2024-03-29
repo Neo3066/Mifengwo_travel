@@ -1,6 +1,6 @@
 <div align="center" >
 <img width="150px"  src="img/logo2.gif" alt="icon"/>
-<h1 align="center">马蜂窝旅游网</h1>
+<h1 align="center">蜜蜂窝旅游网</h1>
 </div>
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
