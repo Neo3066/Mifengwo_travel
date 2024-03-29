@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="main.css" />
+    <title>注册</title>
+    <script type="text/javascript" src="./js/validate_reg.js"></script>
+    <link rel="icon" type="image/x-icon" href="./img/logo2.gif" />
+</head>
+
+<body>
+
+    <!--==================================================================Nav Bar==========================================================-->
+    <section class="nav-bar">
+        <div class="logo"><a href="home.html"><img src="./img/logo2.gif" alt="logo"></a>
+        </div>
+        <ul class="menu">
+            <li><a href="home.html">主页</a></li>
+            <li><a href="hotspot.html">热门景点</a></li>
+            <li><a href="discuss.html">旅游攻略</a></li>
+            <li><a href="about.html">联系我们</a></li>
+            <li><a href="login.html">登录</a>/<a href="signup.html">注册</a>
+            </li>
+        </ul>
+
+    </section>
+
+    <!--==================================================================form==========================================================-->
+    <div class="fullscreen-bg">
+        <img src="./img/signup-img.jpg" alt="">
+    </div>
+
+    <section class=" form">
+        <div class="wrap">
+            <main class="form">
+                <h3>用户注册</h3>
+                <p>欢迎注册，注册过程不会收取任何费用。我们承诺保护您的信息安全,不会将它提供给任何第三方。</p><br>
+                <p>注：<span class="red">*</span> 为必填内容;&nbsp;&nbsp;&nbsp;&nbsp;
+                </p>
+
+                <form name="reg" action="success.html" method="post" onSubmit="return validate_reg()">
+                    <fieldset>
+                        <legend>账号信息</legend>
+                        <label for="email" class="left"> 邮&nbsp;&nbsp;箱<span class="red">*</span></label>
+                        <input type="email" id="email" name="email" class="right" required onblur="isID();isEmail();"
+                            placeholder="请输入邮箱地址" maxlength="20" autofocus><span id="err_ID"></span><span
+                            id="err_email"></span><br><br>
+
+                        <label for="pw1" class="left"> 密&nbsp;&nbsp;码<span class="red">*</span></label>
+                        <input type="password" id="pw1" name="pw1" class="right" required onblur="isPWD()"
+                            placeholder="请输入密码" minlength="6"><span id="err_PWD"></span><br><br>
+
+                        <label for="pw2" class="left"> 确认密码<span class="red">*</span></label>
+                        <input type="password" id="pw2" name="pw2" class="right" required onblur="isREPWD()"
+                            placeholder="请再次输入密码"><span id="err_REPWD"></span><br>
+                    </fieldset>
+
+                    <fieldset>
+                        <legend>个人信息</legend>
+                        <label for="name" class="left"> 姓&nbsp;&nbsp;名<span class="red">*</span></label>
+                        <input type="text" id="name" name="name" class="right" required onblur="isNAME()"
+                            placeholder="请输入姓名"><span id="err_NAME"></span><br><br>
+
+
+                        <label class="left">性&nbsp;&nbsp;别*</label>
+                        <input type="radio" id="sex_1" name="sex" value="male"> <label for="sex_1">男</label>&nbsp;&nbsp;
+                        <input type="radio" id="sex_2" name="sex" value="female"> <label for="sex_2">女</label><br><br>
+
+
+                        <label for="national" class="left"> 国&nbsp;&nbsp;家<span class="red">*</span></label>
+                        <select name="national" id="national" class="right">
+                            <option value="1">中华人民共和国</option>
+                            <option value="2">其他国家和地区</option>
+                        </select><br><br>
+
+                        <label for="district" class="left">地&nbsp;&nbsp;区<span class="red">*</span> </label>
+                        <select name="district" id="district" class="right">
+                            <option selected>请选择您所属的地区</option>
+                            <option value="1">华东</option>
+                            <option value="2">华南</option>
+                            <option value="3">华中</option>
+                            <option value="4">华北</option>
+                            <option value="5">西北</option>
+                            <option value="6">西南</option>
+                            <option value="7">东北</option>
+                            <option value="8">港澳台</option>
+                            <option value="9">其他</option>
+                        </select><br><br>
+
+                        <label for="age" class="left"> 年&nbsp;&nbsp;龄</label>
+                        <input type="number" id="age" name="age" min="2" maxlength="3" class="right"><br>
+
+                    </fieldset>
+
+                    <a href="agreement.html">点击查看用户使用协议</a>
+                    <div text-align="center">
+                        <label for="yes" class="left"><span class="red"></span></label>
+                        <input name="yes" type="checkbox" id="yes" onclick="go()"> <label for="yes">
+                            已阅读并同意上述条款</label>
+                    </div><br>
+
+                    <input name="reset" type="reset" class="btn" value="重 填">
+                    <input name="submit" type="submit" class="btn" value="注 册" disabled>
+                </form>
+            </main>
+        </div>
+    </section>
+
+</body>
+
+</html>
