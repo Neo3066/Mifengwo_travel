@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/github/last-commit/Neo3066/Mifengwo_travel" alt="GitHub Last Commit">
   </a>
 </p>
-
 ## 背景:
   计算机网络技术的快速进步和互联网的普及，已经给人类生活带来了巨大的变化。越来越多的部门、企业和组织通过互联网来宣传自己，同时为有信息需求的人提供了便捷的服务。随着我国经济的快速发展，人们的生活水平得到了显著提高。假日经济和旅游经济已经成为人们消费的热点。各地也把旅游业作为本地经济发展的重要支柱之一，从而带动了其他经济产业的快速发展。旅游网站成为各旅游景点和旅行社宣传中不可或缺的工具，其内容对于旅游景点的宣传和旅游项目的决策起着非常重要的作用。在这种背景下，旅游、电子商务和互联网的快速融合将不可避免，并创造出难以估量的价值。网络旅游将推动旅游领域内的互联网电子商务迅速发展，也将为旅游业界带来新的生机。
 
@@ -40,7 +39,11 @@
 用户信息获取：用于用户登录和注册，以获取用户信息并进行套餐订购和优惠推送。
 这些模块将通过导航栏中的链接标签进行调用，用户可以通过导航栏直接访问和切换这些功能模块。在网站的设计和实现过程中，这些模块将相互关联，以提供全面的旅游服务和信息展示。
 
+## 安装
+- [releases](https://github.com/Neo3066/Mifengwo_travel/releases)
 ## 预览:
+<details open>
+<summary>预览图</summary>
 <div align="center" >
 <img width="61.8%" src="All_images/image024.jpg" height="">
 <img width="61.8%"src="All_images/image026.png" height="">
@@ -49,7 +52,7 @@
 <img width="61.8%"src="All_images/image036.jpg" height="">
 <img width="61.8%"src="All_images/image038.jpg" height="">
 </div>
-
+</details>
 #### Buy Me a Coffee，你的赞赏将会给我带来更多动力。或者动动小手点个小星星🥰🥰
 <img width="61.8%" src="All_images/wechat.jpg" height="">
 
