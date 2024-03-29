@@ -1,6 +1,6 @@
 <div align="center" >
 <img width="150px"  src="img/logo2.gif" alt="icon"/>
-<h1 align="center">马蜂窝旅游网🥰🥰</h1>
+<h1 align="center">马蜂窝旅游网</h1>
 </div>
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
@@ -50,7 +50,7 @@
 <img width="61.8%"src="All_images/image038.jpg" height="">
 </div>
 
-#### Buy Me a Coffee，你的赞赏将会给我带来更多动力。或者动动小手点个小星星🥰
+#### Buy Me a Coffee，你的赞赏将会给我带来更多动力。或者动动小手点个小星星🥰🥰
 <img width="61.8%" src="All_images/wechat.jpg" height="">
 
 ## 特别感谢
