@@ -61,8 +61,10 @@
 授课老师
 
 ### ☕ Buy Me a Coffee😋,你的赞赏将会给我带来更多动力。或者动动小手点个小星星🥰
+<div align="center" >
 <img width="38.2%" src="All_images/wx.jpg" height="">
 <img width="38.2%" src="All_images/zfb.jpg" height="">
+</div>
 
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=Neo3066/Mifengwo_travel&type=Date)](https://star-history.com/#Neo3066/Mifengwo_travel&Date)
