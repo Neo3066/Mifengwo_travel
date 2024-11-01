@@ -44,7 +44,6 @@
 - 请点击此处  [releases](https://github.com/Neo3066/Mifengwo_travel/releases/tag/final)
   
 ## 🤩 预览:
- <details>
 <summary>点击查看</summary>
 <div align="center" >
 <img width="61.8%" src="All_images/image024.jpg" height="">
@@ -54,7 +53,6 @@
 <img width="61.8%"src="All_images/image036.jpg" height="">
 <img width="61.8%"src="All_images/image038.jpg" height="">
 </div>
-</details>
 <br>
 
 ### 🙏 特别感谢
